@@ -1,4 +1,17 @@
 {
   "version": "v2",
-  "content": []
+  "content": [
+    {
+      "title": "dodo-Blog",
+      "url": "https://www.52sms.top/",
+      "avatar": "https://www.52sms.top/favicon1.ico",
+      "description": "热爱网络，热爱生活！"
+    },
+    {
+      "title": "BOKEBO",
+      "url": "https://bokebo.com/",
+      "avatar": "https://bokebo.com/logo.png",
+      "description": "愉悦理性却又不轻浮"
+    }
+  ]
 }
