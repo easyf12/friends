@@ -17,7 +17,7 @@ body:
         - required: true
           label: 博客已运行至少半年，非刚搭建好。
         - required: true
-          label: 与一蓑烟雨至少有3次互动。
+          label: 与摸鱼也免费至少有3次互动。
   - type: textarea
     id: config-file
     validations:
@@ -39,7 +39,7 @@ body:
     attributes:
       label: 友链地址
       description: 请输入您的友链页面地址。
-      placeholder: "如: https://easyf12.top/friends/"
+      placeholder: "如: https://www.moyufree.vip/friends/"
     validations:
       required: true
   - type: input
@@ -47,4 +47,4 @@ body:
     attributes:
       label: 友链仓库（可选）
       description: 如果您使用 issue 作为友链源，请附上 issue 仓库链接。
-      placeholder: "如: https://github.com/easyf12/friends/"
+      placeholder: "如: https://github.com/UpRobot/friends/"
